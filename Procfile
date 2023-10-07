@@ -1,1 +1,1 @@
-web : gunicorn new-django-walkthrough.wsgi
+web: gunicorn codestar.wsgi
