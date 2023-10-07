@@ -1,0 +1,1 @@
+web : gunicorn new-django-walkthrough.wsgi
